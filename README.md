@@ -1,5 +1,5 @@
 
-# Maximum Flow in a Metro System
+# Metro Management System using Maximum Flow 
 
 This Python program implements algorithms to calculate the maximum flow in a metro system represented as a graph. It utilizes the Ford-Fulkerson algorithm with Dijkstra's algorithm for finding the shortest paths.
 
